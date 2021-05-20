@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document zur Anpassung der DW Bootstrapvorlage: Portfolio*/
+
+.jumbotron{
+	background-color:rgba(85,164,244,0.36);
+	background-image: url("../images/friends-1149841_640.jpg");
+	background-repeat: no-repeat;
+	background-size:100%;
+	background-position: center;
+	line-height: 3px;
+}
+
+.mt-2 .my-2{
+	margin-top: 5rem !important;
+}
+
+.logo{
+	height: 3rem;
+	width: 3rem;
+}
+
+.icon{
+	height: 4rem;
+	width: 4rem;
+}
+
+.gal_big{
+	heighr:25rem;
+	width:25rem;
+}
+
+.gal_mid{
+	height: 13rem;
+	width: 13rem;
+}
+
+.bck_color{
+	background-color: rgba(161,238,248,0.05);
+}
+
+#bck_heading, #bck_h3{
+	color:#fff;
+	text-shadow: 2px 2px 2px #000;
+	background-color:rgba(166,166,166,0.10);
+}
+
+#div_height{
+	height: 20rem;
+}
+
+#login{
+	text-decoration: none;
+}
+
+#login a{
+	text-decoration: none;
+}
